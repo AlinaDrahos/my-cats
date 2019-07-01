@@ -31,6 +31,15 @@ textarea {
 }
 
 .gopher {
-    width: 256px;
-    height:256px;
+    height: 256px;
+}
+
+.jumbotron {
+    background-color: firebrick;
+    font-style: italic;
+    color: white;
+}
+
+.col-md-4 {
+    font: italic bold 12px/30px Georgia, serif;
 }
