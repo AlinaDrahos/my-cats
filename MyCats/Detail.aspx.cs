@@ -15,14 +15,14 @@ namespace MyCats
             switch (this.Request["Image"])
             {
                 case "Image1.jpg":
-                    Label1.Text = "My cat (Atticus) loves the washing machine because he has to be the" +
+                    Label1.Text = "My cat (Atticus) loves the dryer because he has to be the" +
                     " first one to get clothes dirty!";
                     break;
                 case "Image2.jpg":
                     Label1.Text = "Mister Atticus is not letting anybody be very productive";
                     break;
                 case "Image3.jpg":
-                    Label1.Text = "Sometimes they are cute and just sleep! But only if Samantha( Calico) is " +
+                    Label1.Text = "Sometimes they are cute and just sleep! But only if Samantha (Calico) is " +
                     "convincing enough";
                     break;
                 default:
