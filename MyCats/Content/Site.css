@@ -43,3 +43,7 @@ textarea {
 .col-md-4 {
     font: italic bold 12px/30px Georgia, serif;
 }
+
+.subtitle-text {
+    margin-top: 40px;
+}
